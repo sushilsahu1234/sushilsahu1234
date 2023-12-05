@@ -14,7 +14,7 @@ module tb;
     end
   end
   initial begin
-    $monitor("Time=%0t,a=%0b,b=%0b,s=%0b,c=%0b",a,b,c,$time);
+    $monitor("Time=%0t,a=%0b,b=%0b,s=%0b,c=%0b",a,b,s,c,$time);
   end
 endmodule
 
