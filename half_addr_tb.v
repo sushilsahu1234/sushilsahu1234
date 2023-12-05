@@ -10,6 +10,7 @@ module tb;
   initial begin
     repeat(5)begin
       a=$random;
+      #10;
       b=$random;
     end
   end
