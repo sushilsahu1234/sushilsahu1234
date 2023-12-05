@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sushilsahu1234
-- 👀 I’m interested in vlsi chip design and verification
   
 
 <!---
